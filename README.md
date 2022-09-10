@@ -1,2 +1,2 @@
 # Self
-theme: THEME-NAME
+theme: Architect
